@@ -5,9 +5,11 @@ public class DogYearCalculator {
         Scanner scanner = new Scanner(System.in); //create scanner object
 
         System.out.println("Please enter your age: "); //prompt user
-        int age = scanner.nextInt(); //read an integer
+        double age = scanner.nextDouble(); //read an integer
 
-        System.out.printf("You are roughly %d in dog years", age*7);
+        double result = 16 * Math.log(age) + 31;
+
+        System.out.printf("If you were a dog, you'd feel approximately %f years old ", result);
 
         scanner.close();
     }
