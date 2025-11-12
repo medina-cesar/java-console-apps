@@ -12,7 +12,6 @@ public class ForLoopCalc {
         
         switch (op) {
             case "+":
-                
                 System.out.println("How many numbers would you like to add? ");
                 int addCount = scanner.nextInt();
 
