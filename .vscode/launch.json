@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VendingMachine",
+            "request": "launch",
+            "mainClass": "VendingMachine",
+            "projectName": "Java-Fundamentals_914bba93"
+        },
+        {
+            "type": "java",
             "name": "ForLoopCalc",
             "request": "launch",
             "mainClass": "ForLoopCalc",
