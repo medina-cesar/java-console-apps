@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice",
+            "projectName": "Java-Fundamentals_87a4ad5"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractive",
+            "request": "launch",
+            "mainClass": "ArrayPractive",
+            "projectName": "Java-Fundamentals_87a4ad5"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopCalc",
+            "request": "launch",
+            "mainClass": "ForLoopCalc",
+            "projectName": "Java-Fundamentals_87a4ad5"
+        },
+        {
+            "type": "java",
+            "name": "VendingMachine",
+            "request": "launch",
+            "mainClass": "VendingMachine",
+            "projectName": "Java-Fundamentals_87a4ad5"
+        },
+        {
+            "type": "java",
             "name": "VendingMachine",
             "request": "launch",
             "mainClass": "VendingMachine",
