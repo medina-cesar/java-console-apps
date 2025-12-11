@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodPractice2",
+            "request": "launch",
+            "mainClass": "MethodPractice2",
+            "projectName": "Java-Fundamentals_6446f48c"
+        },
+        {
+            "type": "java",
+            "name": "MethodPractice",
+            "request": "launch",
+            "mainClass": "MethodPractice",
+            "projectName": "Java-Fundamentals_6446f48c"
+        },
+        {
+            "type": "java",
+            "name": "sumArray",
+            "request": "launch",
+            "mainClass": "sumArray",
+            "projectName": "Java-Fundamentals_6446f48c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice",
+            "projectName": "Java-Fundamentals_6446f48c"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopCalc",
+            "request": "launch",
+            "mainClass": "ForLoopCalc",
+            "projectName": "Java-Fundamentals_6446f48c"
+        },
+        {
+            "type": "java",
             "name": "ArrayPractice",
             "request": "launch",
             "mainClass": "ArrayPractice",
