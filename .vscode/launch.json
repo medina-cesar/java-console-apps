@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodPractice3",
+            "request": "launch",
+            "mainClass": "MethodPractice3",
+            "projectName": "Java-Fundamentals_914bba93"
+        },
+        {
+            "type": "java",
             "name": "MethodPractice2",
             "request": "launch",
             "mainClass": "MethodPractice2",
