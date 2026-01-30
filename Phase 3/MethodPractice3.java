@@ -4,25 +4,23 @@ public class MethodPractice3 {
 
     int max = max_finder(nums);
 
-    System.out.println("Max number" +max);
+    System.out.println("Max number " +max);
     
 }
 
 public static int max_finder(int[] nums) {
     int i;
-    int max = 0;
+    //int max = 0;
     int current_num = 0;
 
     for(i = 0; i < nums[i]; i++){
         if(current_num < nums[i]){
-            current_num = max;
+            current_num = nums[i];
         }
 
     }
 
-    return max;
+    return current_num;
 }
-
-
 
 }
