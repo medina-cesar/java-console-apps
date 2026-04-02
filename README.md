@@ -6,7 +6,7 @@ A collection of Java console applications built to develop core programming skil
 
 ## Projects
 
-### Final Practice (`method-calculator/`)
+### Method calculator (`final-practice/`)
 A multi-operation calculator supporting addition, subtraction, multiplication, and division across a variable number of inputs.
 
 **Features:**
